@@ -10,4 +10,4 @@ with bike as (
 
 )
 
-select * from bike 
+select * from bike
